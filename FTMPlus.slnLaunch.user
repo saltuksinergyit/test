@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FTMPlus\\FTMPlus.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FTMPlusExecuter\\FTMPlusExecuter.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
